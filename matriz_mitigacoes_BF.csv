@@ -1,0 +1,11 @@
+codigo,problema,estado,mitigacao_atual,criterio_fechamento
+BF-01,CAD sólido nativo/STEP,Parcial,Reconstrução paramétrica + desenhos GD&T,"STEP AP242, árvore, datums e desenhos liberados"
+BF-02,Pás sem projeto aerodinâmico,Mitigado analiticamente,"Mean-line, triângulos, corda, solidez e torção",CFD 3D e correlações de cascata
+BF-03,FEA modal 3D ausente,Aberto,Limites administrativos de rotação,Modal prestress + Campbell do conjunto
+BF-04,Orçamento de massa incompleto,Aberto,Estrutura de BOM e margem de crescimento,"Catálogos, CAD nativo e pesagem"
+BF-05,Sobrepressão sem alívio,Aberto bloqueador,"P&ID, cenário regulador aberto e requisitos PRD",Dimensionamento/seleção e revisão responsável
+BF-06,Motores não dimensionados,Parcial,Torque/potência aerodinâmicos estimados,"Perdas, inércia, aceleração e seleção comercial"
+BF-07,Mancais/eixos não selecionados,Aberto,Cargas e interfaces definidas,"Vida L10, rigidez e rotodinâmica"
+BF-08,Balanceamento não especificado,Aberto,Planos e requisito de procedimento,ISO 21940 e balanceamento físico
+BF-09,Contenção de fragmentos,Aberto,Energia rotacional como caso de carga,FEA/ensaio da contenção
+BF-10,Eficiência líquida A/B/C,Parcial,Equação e instrumentação definidas,Bancada com potência elétrica e pneumática

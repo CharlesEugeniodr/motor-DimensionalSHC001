@@ -1,0 +1,7 @@
+teste,rpm_R1,razao_abs_R2_R1,rpm_R2,objetivo
+T13,600,0.8,-480.0,mapear torque estrutural líquido e swirl residual
+T14,600,0.84,-504.0,mapear torque estrutural líquido e swirl residual
+T15,600,0.88,-528.0,mapear torque estrutural líquido e swirl residual
+T16,600,0.92,-552.0,mapear torque estrutural líquido e swirl residual
+T17,600,0.96,-576.0,mapear torque estrutural líquido e swirl residual
+T18,600,1.0,-600.0,mapear torque estrutural líquido e swirl residual

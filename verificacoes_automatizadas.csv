@@ -1,0 +1,11 @@
+verificacao,resultado,valor,criterio
+Coeficiente de fluxo nominal,APROVADO,0.47952439355510906,"0,40 <= phi <= 0,60"
+Razão cubo-ponta,APROVADO,0.7000000000000001,"lambda = 0,70"
+Solidez radial,APROVADO,0.955–1.091,"0,90 a 1,12"
+Folga relativa ao span,APROVADO,0.8333333333333334,"<= 1,0%"
+Mach relativo a 1200 rpm,APROVADO,0.11458142300979898,"<= 0,15"
+BPF a 600 rpm,APROVADO,120,120 Hz
+Margem reduzida a 1400 rpm,APROVADO,20.357142857142858,>= 20% com modelo reduzido
+Rotação operacional abaixo do overspeed,APROVADO,1200.0,Nop < Nover
+Ótimo de torque incluído na varredura,APROVADO,0.88,"0,80 a 1,00"
+Potência fluídica nominal positiva,APROVADO,51.764101162833484,> 0 W
